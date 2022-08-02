@@ -21,6 +21,7 @@
 <div> 
   <a href = "mailto:hectordorrighello@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/hectordorrighellodevjunior/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="" img="https://badgen.net/github/release/babel/babel"></a>
+  <a href="https://instagram.com/hectordg_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://github.com/hdgiacon/curriculo_latex/blob/main/CV.pdf"><img src="https://badgen.net/badge/curriculum/vitae/green" target="_blank"></a>
  
 </div>
