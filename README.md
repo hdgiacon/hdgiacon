@@ -1,4 +1,4 @@
-## Oii, sou o Héctor, desenvolvedor mobile junior!
+## Oii :wave: sou o Héctor, desenvolvedor mobile junior!
 
 <div align="center">
   <a href="https://github.com/hdgiacon">
