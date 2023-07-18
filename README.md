@@ -1,4 +1,4 @@
-## Oii :wave: sou o Héctor, desenvolvedor junior!
+## Oii :wave: sou o Héctor!
 
 &nbsp;
 
