@@ -23,5 +23,6 @@
 <div> 
   <a href = "mailto:hectordorrighello@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/hectordorrighellodev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://github.com/hdgiacon/curriculo_latex/blob/main/curriculum_vitae_hector.pdf"><img src="https://img.shields.io/badge/curriculum-vitae-green?style=for-the-badge" target="_blank"></a>
+  <a href="https://github.com/hdgiacon/curriculo_latex/blob/main/curriculum_vitae_hector.pdf"><img src="https://img.shields.io/badge/curriculum-vitae%20PtBr-green?style=for-the-badge" target="_blank"></a>
+  <a href="https://github.com/hdgiacon/curriculo_latex/blob/english_curriculum/curriculum_vitae_hector.pdf"><img src="https://img.shields.io/badge/curriculum-vitae%20En-purple?style=for-the-badge" target="_blank"></a>
 </div>
