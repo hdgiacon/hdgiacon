@@ -9,6 +9,8 @@ Oii :wave: sou <b style="color: #EB9326">Héctor</b>, desenvolvedor com foco em 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hectordorrighellodev/)
 [![Github](https://img.shields.io/badge/Github-000?style=for-the-badge&logo=Github&logoColor=fffff)](https://github.com/hdgiacon)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=White)](mailto:hectordorrighello@gmail.com)
+[![Currículo em Português](https://img.shields.io/badge/Curr%C3%ADculo-PT-brightgreen?style=for-the-badge)](https://github.com/hdgiacon/curriculo_latex/blob/main/curriculum_vitae_hector.pdf)
+[![Resume in English](https://img.shields.io/badge/Resume-EN-blue?style=for-the-badge)](https://github.com/hdgiacon/curriculo_latex/blob/english_curriculum/curriculum_vitae_hector.pdf)
 
 </div>
 
@@ -25,6 +27,20 @@ Oii :wave: sou <b style="color: #EB9326">Héctor</b>, desenvolvedor com foco em 
 🔹 Como projeto Open Source, estou desenvolvendo uma biblioteca Dart/Flutter para modelagem e implementação simplificada de Grafos, e futuramente quero expandir para outras linguagens como Python e Rust. Estudo também conceitos como Padrões de Projeto, Arquiteturas de Software, Clean Code, Rest API, Microsoft Power BI e Docker. Tenho experiência em distros Linux como Ubuntu, Manjaro e Microsoft WSL, além da utilização de Git e GitFlow para gerenciamento e versionamento de projetos.
 
 🔹 Atualmente no meu tempo livre, gosto principalmente de assistir séries e animes, ler livros e estar com a família e amigos nos finais de semana para sair comer ou simplesmente jogar conversa fora.
+
+<h3 align=center>About me</h3>
+
+🔹 Bachelor of Computer Science, graduated in June 2022, constant learner and enthusiastic about discovering and learning new technologies to acquire, reproduce, and share knowledge through initiative and teamwork. I moved to Maringá in 2016 to study at the State University of Maringá, and since then, I have understood that technology and learning together can efficiently meet the needs of clients and companies.
+
+🔹 After graduation, my focus has been in the field of data science. I completed a postgraduate program and a residency in data science at the SENAI Londrina Artificial Intelligence Hub, where I learned concepts such as data exploration, analysis and visualization, Machine Learning, Deep Learning, and computer vision through classes and real projects provided by participating companies such as Volvo, Bunge, and Matte Leão.
+
+🔹 I am currently a scholarship holder at SENAI Londrina in the Software Factory, where I carry out projects provided by contracting companies, enhancing and acquiring new knowledge, especially in the area of time series and with tools such as TensorFlow, Scikit-learn, Pandas, Numpy, and Plotly.
+
+🔹 In parallel, I took two courses from the master's program in computer science at the Federal Technological University of Paraná in Cornélio Procópio as an external student: Artificial Intelligence, where I refined my already learned concepts with classes and a practical work delivered in the form of an article, and Programming Languages, aiming to enter the master's program in the future.
+
+🔹 As an Open Source project, I am developing a Dart/Flutter library for simplified graph modeling and implementation, and I plan to expand to other languages like Python and Rust in the future. I also study concepts such as Design Patterns, Software Architectures, Clean Code, Rest API, Microsoft Power BI, and Docker. I have experience with Linux distros such as Ubuntu, Manjaro, and Microsoft WSL, as well as using Git and GitFlow for project management and versioning.
+
+🔹 Currently, in my free time, I mainly enjoy watching series and anime, reading books, and spending time with family and friends on weekends, going out to eat or simply chatting.
 
 <h3 align="center"> Linguagens </h3>
 
