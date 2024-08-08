@@ -20,7 +20,7 @@ Oii :wave: sou <b style="color: #EB9326">Héctor</b>, desenvolvedor com foco em 
 
 🔹 Após a graduação, meu foco tem sido a área de ciência de dados. Fiz uma pós-graduação e residência em ciência de dados pelo HUB de Inteligência Artificial do SENAI Londrina, no qual aprendi conceitos como exploração, análise e visualização de dados, Machine Learning, Deep Learning e visão computacional por meio das aulas e projetos reais fornecidos pelas empresas participantes. Dentre elas Volvo, Bunge e Matte Leão.
 
-🔹 Atualmente estou no SENAI Londrina como bolsista na Fábrica de Software, no qual realizo projetos fornecidos pelas empresas contratantes, aprimorando e adquirindo novos conhecimentos, principalmente na área de séries temporais e com ferramentas como TensorFlow, Scikit-learn, Pandas, Numpy, Plotly.
+🔹 Atualmente estou no SENAI Londrina como bolsista na Fábrica de Software, no qual realizo projetos fornecidos pelas empresas contratantes, aprimorando e adquirindo novos conhecimentos, principalmente na área de séries temporais e processamento de linguagem natural, com ferramentas como TensorFlow, Scikit-learn, Pandas, Numpy, Django, Plotly.
 
 🔹 Paralelamente cursei duas matérias do programa de mestrado em informática da Universidade Tecnológica Federal do Paraná de Cornélio Procópio como aluno externo: Inteligência Artificial, no qual aprimorei os meus conceitos já aprendidos, com aulas e um trabalho prático entregue no formato de artigo, e Linguagens de Programação, buscando futuramente ingressar no mestrado.
 
@@ -63,6 +63,7 @@ Oii :wave: sou <b style="color: #EB9326">Héctor</b>, desenvolvedor com foco em 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Plotly](https://img.shields.io/badge/plotly-%233B4D98.svg?style=for-the-badge&logo=plotly&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
