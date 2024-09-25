@@ -1,14 +1,14 @@
 <h1 align="center" style="color: #EB9326">Héctor Dorrighello Giacon</h1>
 
 <p align="center">
-Oii :wave: sou <b style="color: #EB9326">Héctor</b>, desenvolvedor com foco em Análise e Ciência de Dados juntamente com Inteligência Artificial.
+Oii :wave: sou <b style="color: #EB9326">Héctor</b>, desenvolvedor com foco em Análise e Ciência de Dados com Inteligência Artificial.
 </p>
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hectordorrighellodev/)
 [![Github](https://img.shields.io/badge/Github-000?style=for-the-badge&logo=Github&logoColor=fffff)](https://github.com/hdgiacon)
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=White)](mailto:hectordorrighello@gmail.com)
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hectordorrighello@gmail.com)
 [![Currículo em Português](https://img.shields.io/badge/Curr%C3%ADculo-PT-brightgreen?style=for-the-badge)](https://github.com/hdgiacon/curriculo_latex/blob/main/curriculum_vitae_hector.pdf)
 [![Resume in English](https://img.shields.io/badge/Resume-EN-blue?style=for-the-badge)](https://github.com/hdgiacon/curriculo_latex/blob/english_curriculum/curriculum_vitae_hector.pdf)
 
@@ -48,6 +48,7 @@ Oii :wave: sou <b style="color: #EB9326">Héctor</b>, desenvolvedor com foco em 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -60,16 +61,19 @@ Oii :wave: sou <b style="color: #EB9326">Héctor</b>, desenvolvedor com foco em 
 <div align="center">
 
 ![TensorFlow](https://img.shields.io/badge/tensorflow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/pytorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Celery](https://img.shields.io/badge/celery-%2337814A.svg?style=for-the-badge&logo=celery&logoColor=white)
 ![Plotly](https://img.shields.io/badge/plotly-%233B4D98.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811.svg?style=for-the-badge&logo=power-bi&logoColor=black)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
 ![Linux](https://img.shields.io/badge/linux-%23000000.svg?style=for-the-badge&logo=linux&logoColor=white)
+![GNU Make](https://img.shields.io/badge/Makefile-0779C1.svg?style=for-the-badge&logo=gnu&logoColor=white)
 
 </div>
 
