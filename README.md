@@ -4,6 +4,8 @@
 Oii :wave: sou <b style="color: #EB9326">Héctor</b>, desenvolvedor com foco em Análise e Ciência de Dados com Inteligência Artificial.
 </p>
 
+&nbsp;
+
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hectordorrighellodev/)
@@ -33,6 +35,8 @@ Oii :wave: sou <b style="color: #EB9326">Héctor</b>, desenvolvedor com foco em 
 🔹 Currently, in the evening, I am an external student in the PPGI master's program at the Federal Technological University of Paraná in Cornélio Procópio - UTFPR (2024). I am taking courses such as Introduction to Artificial Intelligence, in which I developed an article that compares different neural network models for image classification. I am also studying Programming Languages, Computer Vision and Natural Language Processing, with the goal of effectively enrolling in the master's degree by the end of the year remotely.
 
 🔹 As a hobby, I explore computer vision techniques, such as YOLO, and I am developing an Open Source library in Dart/Flutter for simplified graph modeling and implementation, with plans to expand to other languages, such as Python and Rust.
+
+&nbsp;
 
 <h3 align="center"> Linguagens </h3>
 
@@ -69,6 +73,8 @@ Oii :wave: sou <b style="color: #EB9326">Héctor</b>, desenvolvedor com foco em 
 ![Linux](https://img.shields.io/badge/linux-%23000000.svg?style=for-the-badge&logo=linux&logoColor=white)
 
 </div>
+
+&nbsp;
 
 <h2 align="center"> Github Stats </h2>
 
