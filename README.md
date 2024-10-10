@@ -4,8 +4,6 @@
 Oii :wave: sou <b style="color: #EB9326">Héctor</b>, desenvolvedor com foco em Análise e Ciência de Dados com Inteligência Artificial.
 </p>
 
-&nbsp;
-
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hectordorrighellodev/)
@@ -15,6 +13,8 @@ Oii :wave: sou <b style="color: #EB9326">Héctor</b>, desenvolvedor com foco em 
 [![Resume in English](https://img.shields.io/badge/Resume-EN-blue?style=for-the-badge)](https://github.com/hdgiacon/curriculo_latex/blob/english_curriculum/curriculum_vitae_hector.pdf)
 
 </div>
+
+&nbsp;
 
 <h3 align=center>Sobre mim</h3>
 
