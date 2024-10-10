@@ -16,31 +16,23 @@ Oii :wave: sou <b style="color: #EB9326">Héctor</b>, desenvolvedor com foco em 
 
 <h3 align=center>Sobre mim</h3>
 
-🔹 Bacharel em Ciência da Computação, formado em junho de 2022, constante aprendiz e entusiasmado a conhecer e aprender novas tecnologias para adquirir, reproduzir e compartilhar conhecimento, por meio de iniciativa e trabalho em equipe. Me mudei para Maringá em 2016 para estudar na Universidade Estadual de Maringá e desde então compreendi que tecnologia e aprendizagem juntas podem atender às necessidades dos clientes e das empresas eficientemente.
+🔹 Sou graduado em Ciência da Computação pela Universidade Estadual de Maringá - UEM (2022) e possuo pós-graduação em Ciência de Dados pelo Hub de Inteligência Artificial do Senai Londrina (2023). Durante minha formação, apliquei técnicas de análise e predição em projetos de classificação e regressão de dados, especialmente em séries temporais e visão computacional.
 
-🔹 Após a graduação, meu foco tem sido a área de ciência de dados. Fiz uma pós-graduação e residência em ciência de dados pelo HUB de Inteligência Artificial do SENAI Londrina, no qual aprendi conceitos como exploração, análise e visualização de dados, Machine Learning, Deep Learning e visão computacional por meio das aulas e projetos reais fornecidos pelas empresas participantes. Dentre elas Volvo, Bunge e Matte Leão.
+🔹 Atuo há um ano como bolsista na Fábrica de Software do Senai Londrina, onde ampliei meu conhecimento prático em Machine Learning e Deep Learning, experimentando combinações de modelos e técnicas de redes neurais. Também trabalho com processamento de linguagem natural, estudando e aplicando Large Language Models (LLM) para tarefas que vão desde similaridade de sentenças até geração de textos, além de implementar algoritmos de busca eficientes com estruturas de dados e programação assíncrona.
 
-🔹 Atualmente estou no SENAI Londrina como bolsista na Fábrica de Software, no qual realizo projetos fornecidos pelas empresas contratantes, aprimorando e adquirindo novos conhecimentos, principalmente na área de séries temporais e processamento de linguagem natural, com ferramentas como TensorFlow, Scikit-learn, Pandas, Numpy, Django, Plotly.
+🔹 Atualmente, no período noturno, sou aluno externo do programa de mestrado do PPGI na Universidade Federal Tecnológica do Paraná de Cornélio Procópio - UTFPR (2024). Estou cursando disciplinas como Introdução à Inteligência Artificial, na qual desenvolvi um artigo que compara diferentes modelos de redes neurais para classificação de imagens. Também estudo Linguagens de Programação, Visão Computacional e Processamento de Linguagem Natural, com a meta de ingressar efetivamente no mestrado até o final do ano remotamente.
 
-🔹 Paralelamente cursei duas matérias do programa de mestrado em informática da Universidade Tecnológica Federal do Paraná de Cornélio Procópio como aluno externo: Inteligência Artificial, no qual aprimorei os meus conceitos já aprendidos, com aulas e um trabalho prático entregue no formato de artigo, e Linguagens de Programação, buscando futuramente ingressar no mestrado.
-
-🔹 Como projeto Open Source, estou desenvolvendo uma biblioteca Dart/Flutter para modelagem e implementação simplificada de Grafos, e futuramente quero expandir para outras linguagens como Python e Rust. Estudo também conceitos como Padrões de Projeto, Arquiteturas de Software, Clean Code, Rest API, Microsoft Power BI e Docker. Tenho experiência em distros Linux como Ubuntu, Manjaro e Microsoft WSL, além da utilização de Git e GitFlow para gerenciamento e versionamento de projetos.
-
-🔹 Atualmente no meu tempo livre, gosto principalmente de assistir séries e animes, ler livros e estar com a família e amigos nos finais de semana para sair comer ou simplesmente jogar conversa fora.
+🔹 Como hobby, exploro técnicas de visão computacional, como YOLO, e estou desenvolvendo uma biblioteca Open Source em Dart/Flutter para modelagem e implementação simplificada de grafos, com planos de expandir para outras linguagens, como Python e Rust.
 
 <h3 align=center>About me</h3>
 
-🔹 Bachelor of Computer Science, graduated in June 2022, constant learner and enthusiastic about discovering and learning new technologies to acquire, reproduce, and share knowledge through initiative and teamwork. I moved to Maringá in 2016 to study at the State University of Maringá, and since then, I have understood that technology and learning together can efficiently meet the needs of clients and companies.
+🔹 I have a degree in Computer Science from the State University of Maringá - UEM (2022) and a postgraduate degree in Data Science from the Artificial Intelligence Hub of Senai Londrina (2023). During my training, I applied analysis and prediction techniques in data classification and regression projects, especially in time series and computer vision.
 
-🔹 After graduation, my focus has been in the field of data science. I completed a postgraduate program and a residency in data science at the SENAI Londrina Artificial Intelligence Hub, where I learned concepts such as data exploration, analysis and visualization, Machine Learning, Deep Learning, and computer vision through classes and real projects provided by participating companies such as Volvo, Bunge, and Matte Leão.
+🔹 I have been working for a year as a scholarship student at the Software Factory of Senai Londrina, where I expanded my practical knowledge in Machine Learning and Deep Learning, experimenting with combinations of models and neural network techniques. I also work with natural language processing, studying and applying Large Language Models (LLM) for tasks ranging from sentence similarity to text generation, in addition to implementing efficient search algorithms with data structures and asynchronous programming.
 
-🔹 I am currently a scholarship holder at SENAI Londrina in the Software Factory, where I carry out projects provided by contracting companies, enhancing and acquiring new knowledge, especially in the area of time series and with tools such as TensorFlow, Scikit-learn, Pandas, Numpy, and Plotly.
+🔹 Currently, in the evening, I am an external student in the PPGI master's program at the Federal Technological University of Paraná in Cornélio Procópio - UTFPR (2024). I am taking courses such as Introduction to Artificial Intelligence, in which I developed an article that compares different neural network models for image classification. I am also studying Programming Languages, Computer Vision and Natural Language Processing, with the goal of effectively enrolling in the master's degree by the end of the year remotely.
 
-🔹 In parallel, I took two courses from the master's program in computer science at the Federal Technological University of Paraná in Cornélio Procópio as an external student: Artificial Intelligence, where I refined my already learned concepts with classes and a practical work delivered in the form of an article, and Programming Languages, aiming to enter the master's program in the future.
-
-🔹 As an Open Source project, I am developing a Dart/Flutter library for simplified graph modeling and implementation, and I plan to expand to other languages like Python and Rust in the future. I also study concepts such as Design Patterns, Software Architectures, Clean Code, Rest API, Microsoft Power BI, and Docker. I have experience with Linux distros such as Ubuntu, Manjaro, and Microsoft WSL, as well as using Git and GitFlow for project management and versioning.
-
-🔹 Currently, in my free time, I mainly enjoy watching series and anime, reading books, and spending time with family and friends on weekends, going out to eat or simply chatting.
+🔹 As a hobby, I explore computer vision techniques, such as YOLO, and I am developing an Open Source library in Dart/Flutter for simplified graph modeling and implementation, with plans to expand to other languages, such as Python and Rust.
 
 <h3 align="center"> Linguagens </h3>
 
@@ -83,6 +75,5 @@ Oii :wave: sou <b style="color: #EB9326">Héctor</b>, desenvolvedor com foco em 
 <div align="center">
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=hdgiacon&layout=donut&bg_color=353D41&border_color=123547&title_color=EB9326&text_color=FFF&)
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hdgiacon&theme=transparent&bg_color=353D41&border_color=123547&show_icons=true&icon_color=EB9326&title_color=EB9326&text_color=FFF&hide_title=true&hide=stars&rank_icon=github)
 
