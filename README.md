@@ -61,7 +61,7 @@ Oii :wave: sou <b style="color: #EB9326">Héctor</b>, desenvolvedor com foco em 
 ![PyTorch](https://img.shields.io/badge/pytorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Transformers](https://img.shields.io/badge/Transformers-%23FFDA44.svg?style=for-the-badge&logo=huggingface&logoColor=black)
-![YOLO](https://img.shields.io/badge/YOLO-%23000.svg?style=for-the-badge&logo=yolo&logoColor=white)
+![Ultralytics](https://img.shields.io/badge/Ultralytics-%23FFDD00.svg?style=for-the-badge&logo=ultralytics&logoColor=black)
 ![pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
