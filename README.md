@@ -1,8 +1,7 @@
-<h1 align="center" style="color: #EB9326">Héctor Dorrighello Giacon</h1>
+<h1 align="center"> 👨‍💻 Seja bem-vindo(a) ao meu GitHub! </h1>
+<p align="center"><i> Cientista de Dados | Visão Computacional | NLP | LLM </i></p>
 
-<p align="center">
-Oii :wave: sou <b style="color: #EB9326">Héctor</b>, desenvolvedor com foco em Análise e Ciência de Dados com Inteligência Artificial.
-</p>
+&nbsp;
 
 <div align="center">
 
@@ -13,8 +12,6 @@ Oii :wave: sou <b style="color: #EB9326">Héctor</b>, desenvolvedor com foco em 
 [![Resume in English](https://img.shields.io/badge/Resume-EN-blue?style=for-the-badge)](https://github.com/hdgiacon/curriculo_latex/blob/english_curriculum/curriculum_vitae_hector.pdf)
 
 </div>
-
-&nbsp;
 
 <h3 align=center>Sobre mim</h3>
 
@@ -90,3 +87,17 @@ Oii :wave: sou <b style="color: #EB9326">Héctor</b>, desenvolvedor com foco em 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=hdgiacon&layout=donut&bg_color=353D41&border_color=123547&title_color=EB9326&text_color=FFF&)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hdgiacon&theme=transparent&bg_color=353D41&border_color=123547&show_icons=true&icon_color=EB9326&title_color=EB9326&text_color=FFF&hide_title=true&hide=stars&rank_icon=github)
 
+<br>
+
+---
+
+<img align="right" src="https://c.tenor.com/abfF-YQ167UAAAAd/tenor.gif" width="130" alt="Rock Lee" />
+
+> _"O esforço nunca trai quem acredita nele."_ 🔥  
+> — **Rock Lee**
+
+<br>
+
+---
+
+<p align="center"><i> Obrigado pela visita! 👊 </i></p>
