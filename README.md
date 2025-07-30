@@ -21,7 +21,7 @@
 
 🔹 No período noturno, sou mestrando no programa de Mestrado Profissional do PPGI na Universidade Federal Tecnológica do Paraná de Cornélio Procópio - UTFPR (2025). Estou cursando disciplinas como Introdução à Inteligência Artificial, na qual desenvolvi um artigo que compara diferentes modelos de redes neurais para classificação de imagens. Também estudo Mineração de Dados, Processamento de Linguagem Natural (NLP) e Visão Computacional, sendo esta ultima o foco da minha dissertação, no qual aplico Segmanetação Semântica utilizando U-Net e Vision Transformers (ViTs).
 
-🔹 Atualmente, trabalho como Cientista de Dados na Serrabits, no qual estudo e aplico conhecimentos focados em Visão Computacional e em NLP, com LLMs da arquitetura Transformers.
+🔹 Atualmente, trabalho como Cientista de Dados na BrF, no qual estudo e aplico conhecimentos em dados juntamente com Cloud, DevOps, orquestração e modelagem de Pipelines.
 
 🔹 Como hobby, exploro técnicas de visão computacional, como YOLO (You Only Look Once), GANs (Generative Adversarial Networks) e ViT (Vision Transformers). Estou desenvolvendo uma biblioteca Open Source em Dart/Flutter para modelagem e implementação simplificada de grafos, com planos de expandir para outras linguagens, como Python e Rust.
 
@@ -33,7 +33,7 @@
 
 🔹 At night, i'm a master's student in the Professional Master's program of PPGI at the Federal University of Technology of Paraná in Cornélio Procópio - UTFPR (2025). I am taking courses such as Introduction to Artificial Intelligence, in which I developed an article that compares different neural network models for image classification. I also study Data Mining, Natural Language Processing (NLP) and Computer Vision, the latter being the focus of my dissertation, in which I apply Semantic Segmentation using U-Net and Vision Transformers (ViTs).
 
-🔹 I currently work as a Data Scientist at Serrabits, where I study and apply knowledge focused on Computer Vision and NLP, with LLMs from the Transformers architecture. 
+🔹 I currently work as a Data Scientist at BrF, where I study and apply data knowledge along with Cloud, DevOps, orchestration, and Pipeline modeling. 
 
 🔹 As a hobby, I explore computer vision techniques such as YOLO (You Only Look Once), GANs (Generative Adversarial Networks) and ViT (Vision Transformers). I'm developing an Open Source library in Dart/Flutter for simplified graph modeling and implementation, with plans to expand to other languages, such as Python and Rust. 
 
@@ -63,10 +63,13 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Transformers](https://img.shields.io/badge/Transformers-%23FFDA44.svg?style=for-the-badge&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-%230073B5.svg?style=for-the-badge&logo=google-gemini&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+![Databricks](https://img.shields.io/badge/databricks-EF3E3E.svg?style=for-the-badge&logo=databricks&logoColor=white)
 ![Ultralytics](https://img.shields.io/badge/Ultralytics-%23FFDD00.svg?style=for-the-badge&logo=ultralytics&logoColor=black)
 ![pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![StatsModels](https://img.shields.io/badge/StatsModels-%23117AC9.svg?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/fastapi-009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Celery](https://img.shields.io/badge/celery-%2337814A.svg?style=for-the-badge&logo=celery&logoColor=white)
 ![Plotly](https://img.shields.io/badge/plotly-%233B4D98.svg?style=for-the-badge&logo=plotly&logoColor=white)
