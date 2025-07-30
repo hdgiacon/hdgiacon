@@ -76,7 +76,7 @@
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Celery](https://img.shields.io/badge/celery-%2337814A.svg?style=for-the-badge&logo=celery&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-8FCB3F?style=for-the-badge&logo=swagger&logoColor=black)
-![Plotly](https://img.shields.io/badge/plotly-%233B4D98.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811.svg?style=for-the-badge&logo=power-bi&logoColor=black)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
