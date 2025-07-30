@@ -54,6 +54,8 @@
 
 </div>
 
+&nbsp;
+
 <h3 align="center"> Frameworks </h3>
 
 <div align="center">
@@ -81,6 +83,8 @@
 ![Linux](https://img.shields.io/badge/linux-%23000000.svg?style=for-the-badge&logo=linux&logoColor=white)
 
 </div>
+
+&nbsp;
 
 <h3 align="center"> Distros Linux </h3>
 
