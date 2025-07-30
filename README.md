@@ -63,6 +63,7 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Transformers](https://img.shields.io/badge/Transformers-%23FFDA44.svg?style=for-the-badge&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-%230073B5.svg?style=for-the-badge&logo=google-gemini&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 ![Databricks](https://img.shields.io/badge/databricks-EF3E3E.svg?style=for-the-badge&logo=databricks&logoColor=white)
 ![Ultralytics](https://img.shields.io/badge/Ultralytics-%23FFDD00.svg?style=for-the-badge&logo=ultralytics&logoColor=black)
